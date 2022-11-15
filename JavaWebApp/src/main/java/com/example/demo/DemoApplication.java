@@ -11,7 +11,7 @@ public class DemoApplication {
 		
 		string name = "Mary";
 
-		system.out.printls(name);
+		system.out.println(name);
 	}
 
 }
